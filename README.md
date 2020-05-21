@@ -1,5 +1,7 @@
 자바로 작성된 GUI기반의 채팅프로그램입니다.  
-gui 이미지 및 프로그램설명 추가 예정입니다.
+  
+
+  
 
 <서버생성정보 입력>  
 ![1](https://user-images.githubusercontent.com/65228113/82604695-a3740480-9bef-11ea-9790-c62b9b74a542.PNG)
