@@ -25,7 +25,7 @@
 ![5](https://user-images.githubusercontent.com/65228113/82604719-a838b880-9bef-11ea-9321-80ae5f00918b.PNG)
 
 <파일전송 - 송신>  
-windows탐색이 형식의 gui에서 원하는 파일을 선택하여 송신합니다.  
+windows탐색 형식의 gui에서 원하는 파일을 선택하여 송신합니다.  
 ![file](https://user-images.githubusercontent.com/65228113/82604724-ab33a900-9bef-11ea-8e77-166befafd500.png)
 
 <파일전송 - 수신>  
